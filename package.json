@@ -1,0 +1,28 @@
+{
+  "name": "ajm-jquerypluginchallenge",
+  "version": "0.1.0",
+  "author": "A.J. Mody <alexjmody@gmail.com>",
+  "homepage": "http://",
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/nonphotoblue22/jquerypluginchallenge"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "description": "jquerypluginchallenge",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "/"
+  },
+  "keywords": [
+    "/"
+  ],
+  "license": "MIT"
+}
